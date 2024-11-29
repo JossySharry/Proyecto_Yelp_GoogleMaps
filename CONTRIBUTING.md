@@ -8,24 +8,21 @@ bash<br>
 Copiar código<br>
 git clone https://github.com/JossySharry/Proyecto_Yelp_GoogleMaps.git
 
-
 Ve al directorio del proyecto:
-```bash
-Copiar código
+bash<br>
+Copiar código<br>
 cd Proyecto_Yelp_GoogleMaps
 
 2. Crea una nueva rama para tu funcionalidad o corrección: Utiliza un nombre claro para describir tu trabajo.
 
-```bash
-
-Copiar código
-
+bash<br>
+Copiar código<br>
 git checkout -b feature/mi-funcionalidad
 
-Ejemplo:
-
-```bash
-Copiar código
+<br>
+Ejemplo:<br>
+bash<br>
+Copiar código<br>
 git checkout -b feature/agregar-filtro
 
 3. Realiza tus cambios:
@@ -35,20 +32,20 @@ git checkout -b feature/agregar-filtro
 
 4. Guarda tus cambios y súbelos al repositorio remoto: Agrega los cambios:
 
-```bash
-Copiar código
+bash<br>
+Copiar código<br>
 git add .
 
 Confirma los cambios con un mensaje descriptivo:
 
-```bash
-Copiar código
+bash<br>
+Copiar código<br>
 git commit -m "Descripción breve de los cambios"
 
 Sube la rama:
 
-```bash
-Copiar código
+bash<br>
+Copiar código<br>
 git push origin feature/mi-funcionalidad
 
 5. Crea un Pull Request (PR):
@@ -73,11 +70,11 @@ Cada PR será revisado antes de ser fusionado. Si hay comentarios, realiza las m
 3. Conflictos:
 Si encuentras conflictos al fusionar, resuélvelos localmente:
 
-```bash
-Copiar código
-git pull origin main
-git merge main
-Luego, sube los cambios resueltos.
+bash<br>
+Copiar código<br>
+git pull origin main/master<br>
+git merge main/master<br>
+Luego, sube los cambios resueltos.<br>
 
 ## 
 ¡Gracias por contribuir y ser parte de este proyecto! 🚀
