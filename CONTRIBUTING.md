@@ -50,7 +50,7 @@ git commit -m "Descripción breve de los cambios"
 Sube la rama:
 
 ```bash 
-Copiar código<br>
+Copiar código
 git push origin feature/mi-funcionalidad
 ```
 5. Crea un Pull Request (PR):
@@ -67,7 +67,7 @@ git push origin feature/mi-funcionalidad
 
 ## Reglas del Proyecto 
 
-1. No hagas cambios directos a la rama main.
+1. No hagas cambios directos a la rama main/master.
 Todas las contribuciones deben pasar por un Pull Request.
 
 2. Revisiones:
@@ -80,8 +80,8 @@ Si encuentras conflictos al fusionar, resuélvelos localmente:
 
 ```bash 
 Copiar código
-git pull origin main/master<br>
-git merge main/master<br>
+git pull origin main/master
+git merge main/master
 ```
 
 Luego, sube los cambios resueltos.<br>
