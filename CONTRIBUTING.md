@@ -1,29 +1,34 @@
 # <h1 align=center> Guía para Contribuir al Proyecto </h1>
+
 ¡Gracias por tu interés en contribuir a este proyecto! Sigamos este flujo para mantener el trabajo organizado y eficiente. 😄
 
 ##  Cómo Contribuir 
 1. Clona el repositorio:
 
-bash<br>
-Copiar código<br>
+```bash 
+Copiar 
 git clone https://github.com/JossySharry/Proyecto_Yelp_GoogleMaps.git
-
+```
 Ve al directorio del proyecto:
-bash<br>
-Copiar código<br>
+
+```bash 
+Copiar código
 cd Proyecto_Yelp_GoogleMaps
+```
 
 2. Crea una nueva rama para tu funcionalidad o corrección: Utiliza un nombre claro para describir tu trabajo.
 
-bash<br>
-Copiar código<br>
+```bash 
+Copiar código
 git checkout -b feature/mi-funcionalidad
-
+```
 <br>
 Ejemplo:<br>
-bash<br>
-Copiar código<br>
+
+```bash 
+Copiar código
 git checkout -b feature/agregar-filtro
+```
 
 3. Realiza tus cambios:
 
@@ -32,22 +37,22 @@ git checkout -b feature/agregar-filtro
 
 4. Guarda tus cambios y súbelos al repositorio remoto: Agrega los cambios:
 
-bash<br>
-Copiar código<br>
+```bash 
+Copiar código
 git add .
-
+```
 Confirma los cambios con un mensaje descriptivo:
 
-bash<br>
-Copiar código<br>
+```bash 
+Copiar código
 git commit -m "Descripción breve de los cambios"
-
+```
 Sube la rama:
 
-bash<br>
+```bash 
 Copiar código<br>
 git push origin feature/mi-funcionalidad
-
+```
 5. Crea un Pull Request (PR):
 
 - Ve a la página del repositorio en GitHub.
@@ -61,19 +66,24 @@ git push origin feature/mi-funcionalidad
     - ❌ "Cambios varios"
 
 ## Reglas del Proyecto 
+
 1. No hagas cambios directos a la rama main.
 Todas las contribuciones deben pasar por un Pull Request.
 
 2. Revisiones:
+
 Cada PR será revisado antes de ser fusionado. Si hay comentarios, realiza las modificaciones necesarias.
 
 3. Conflictos:
+
 Si encuentras conflictos al fusionar, resuélvelos localmente:
 
-bash<br>
-Copiar código<br>
+```bash 
+Copiar código
 git pull origin main/master<br>
 git merge main/master<br>
+```
+
 Luego, sube los cambios resueltos.<br>
 
 ## 
