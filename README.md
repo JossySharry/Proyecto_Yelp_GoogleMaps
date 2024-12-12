@@ -3,7 +3,7 @@
 ## <h1 align="center">**`DataPionner Consulting`**</h1>
 
 <div align="center">
-  <img src="../Img/logo.png" alt="Logo">
+  <img src="Img/logo.png" alt="Logo">
 </div>
 
 # <h2 align=center> Nombre del Proyecto:</h2>
@@ -15,7 +15,7 @@ La población latina es uno de los grupos de mayor crecimiento en los Estados Un
 <p align="center"> Gráfico 1: Población Latina por Estado </p>
 
 <div align="center">
-  <img src="../Img/pobla.jpeg" alt="Poblacion">
+  <img src="Img/pobla.jpeg" alt="Poblacion">
 </div>
 
 ## ```Nuestro Cliente```
@@ -24,7 +24,7 @@ El cliente es un inversor latinoamericano propietario de una exitosa cadena de r
 <p align="center"> Gráfico 2: Identificación del Sector Clave para el Análisis </p>
 
 <div align="center">
-  <img src="../Img/sector.png" alt="Sector">
+  <img src="Img/sector.png" alt="Sector">
 </div>
 
 
@@ -110,7 +110,7 @@ GitHub: Herramientas para colaboración.
 <p align="center"> Gráfico 3: Pipeline de Procesamiento de Datos </p>
 
 <div align="center">
-  <img src="../Img/stack.jpeg" alt="Stack">
+  <img src="Img/stack.jpeg" alt="Stack">
 </div>
 
 
@@ -118,5 +118,5 @@ GitHub: Herramientas para colaboración.
 ## ```Equipo de Trabajo```
 
 <div align="center">
-  <img src="../Img/equipo.jpg" alt="Stack">
+  <img src="Img/equipo.jpg" alt="Stack">
 </div>
