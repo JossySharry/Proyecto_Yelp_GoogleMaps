@@ -2,7 +2,9 @@
 
 ## <h1 align="center">**`DataPionner Consulting`**</h1>
 
-![Logo](Img/logo.png)
+<div align="center">
+  <img src="../Img/logo.png" alt="Logo">
+</div>
 
 # <h2 align=center> Nombre del Proyecto:</h2>
 <h2 align=center>Análisis del Mercado de Restaurantes Latinos en USA</h2>
