@@ -38,7 +38,7 @@ Diseñar una estrategia basada en datos para maximizar el éxito de la expansió
 
 ## ```Alcance del Proyecto```
 
-El alcance del proyecto consiste en realizar un análisis exhaustivo de datos para optimizar la expansión del negocio de comida latina de nuestro del cliente. Esto implica identificar las mejores ubicaciones para abrir nuevos restaurantes, diseñando menús y experiencias personalizadas para los Estados que tienen influencia de la población hispana, y desarrollando un modelo predictivo que permita estimar el éxito de apertura. En resumen, buscamos utilizar la ciencia de datos para tomar decisiones estratégicas y maximizar el rendimiento de tu inversión en expansión.
+El alcance del proyecto consiste en realizar un análisis exhaustivo de datos para optimizar la expansión del negocio de comida latina de nuestro  cliente. Esto implica identificar las mejores ubicaciones para abrir nuevos restaurantes, diseñando menús y experiencias personalizadas para los Estados que tienen influencia de la población hispana, y desarrollando un modelo predictivo que permita estimar el éxito de apertura. En resumen, buscamos utilizar la ciencia de datos para tomar decisiones estratégicas y maximizar el rendimiento de tu inversión en expansión.
 
 ## ```Metodología de Trabajo```
 
