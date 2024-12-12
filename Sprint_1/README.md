@@ -12,16 +12,21 @@
 ## ```Contexto```
 La población latina es uno de los grupos de mayor crecimiento en los Estados Unidos, representando un 18.9% de la población total. Este segmento, diverso en nacionalidades y culturas, ha transformado significativamente la gastronomía estadounidense, posicionando la comida latina como una de las más populares. Sin embargo, el mercado no está totalmente explotado y presenta oportunidades estratégicas para nuevos negocios.
 
-Gráfico 1: Población Latina por Estado
+<p align="center"> Gráfico 1: Población Latina por Estado </p>
 
-![Poblacion](Img/pobla.png)
+<div align="center">
+  <img src="../Img/pobla.jpeg" alt="Poblacion">
+</div>
 
 ## ```Nuestro Cliente```
 El cliente es un inversor latinoamericano propietario de una exitosa cadena de restaurantes en su país de origen. Ahora busca expandirse al mercado estadounidense con una propuesta culinaria auténtica y adaptada, que combine platos tradicionales latinos con un enfoque en los gustos locales. El objetivo del cliente es posicionar su marca como un referente de la gastronomía latina en Estados Unidos, apelando tanto a la comunidad latina como a consumidores interesados en experiencias gastronómicas únicas.
 
-Gráfico 2: Identificación del Sector Clave para el Análisis
+<p align="center"> Gráfico 2: Identificación del Sector Clave para el Análisis </p>
 
-![Sector](Img/sector.png)
+<div align="center">
+  <img src="../Img/sector.png" alt="Sector">
+</div>
+
 
 ## ```Objetivo General del Proyecto```
 Diseñar una estrategia basada en datos para maximizar el éxito de la expansión.
@@ -102,11 +107,16 @@ Tableau/PowerBI: Dashboards interactivos.
 Streamlit y FastAPI: Despliegue de soluciones interactivas.
 GitHub: Herramientas para colaboración.
 
-Gráfico 3: Pipeline de Procesamiento de Datos
+<p align="center"> Gráfico 3: Pipeline de Procesamiento de Datos </p>
 
-![stack](Img/stack.jpeg)
+<div align="center">
+  <img src="../Img/stack.jpeg" alt="Stack">
+</div>
+
 
 
 ## ```Equipo de Trabajo```
 
-![equipo](Img/equipo.jpg)
+<div align="center">
+  <img src="../Img/equipo.jpg" alt="Stack">
+</div>
