@@ -1,6 +1,6 @@
 # <h1 align="center">**YELP & GOOGLE MAPS**</h1>
 
-## <h1 align="center">**`DataPionner Consulting`**</h1>
+## <h1 align="center">**`DataPioneer Consulting`**</h1>
 
 <div align="center">
   <img src="Img/logo.png" alt="Logo">
@@ -42,17 +42,20 @@ El alcance del proyecto consiste en realizar un análisis exhaustivo de datos pa
 
 ## ```Metodología de Trabajo```
 
-La metodología SCRUM, se ha empleado para realizar el proyecto, debido a que enfatiza la colaboración, la adaptación y la entrega incremental del producto solicitado por el cliente. 
+Para garantizar la entrega ágil y adaptada a las necesidades del cliente, hemos adoptado la metodología Scrum. Este marco de trabajo se basa en la colaboración continua y la entrega incremental de valor a través de Sprints.
+En este proyecto, hemos planificado tres Sprints:
 
-Para el Primer Sprint, se ha realizado:
+Sprint 1: Definición del problema, objetivos, roles y análisis preliminar de datos.
+Sprint 2: Implementación del proceso ETL, diseño del Data Warehouse y desarrollo del Producto Mínimo Viable (MVP).
+Sprint 3: Desarrollo del modelo de Machine Learning, creación de un dashboard interactivo y generación de la documentación final.
+Para una mejor visualización del progreso, hemos elaborado el siguiente cronograma:
 
-- Trabajo Inicial: Definición del problema, recopilación de datos y exploración inicial.
-- Planificación de Sprint: Establecimiento de objetivos claros y tareas específicas para un período determinado (sprint).
-- Daily Scrum: Reunión diaria breve para sincronizar el trabajo y resolver impedimentos.
-- Trabajo Diario: Desarrollo de las tareas asignadas en el sprint.
-- Actualización del Backlog: Ajustar las prioridades y tareas pendientes en función de los avances y nuevos conocimientos.
-- Retrospectiva de Sprint: Reflexionar sobre lo que funcionó bien, lo que no y cómo mejorar en el próximo sprint.
-- Release: Entrega de tarea asignada.
+<p align="center"> Gráfico 3: Cronograma </p>
+
+<div align="center">
+  <img src="Img/cronograma.jpeg" alt="Cronograma">
+</div>
+
 
 ## ```Fuente de Datos```
 Yelp: Información sobre negocios, reseñas de usuarios, categorías de negocios y ubicaciones.
@@ -107,7 +110,7 @@ Tableau/PowerBI: Dashboards interactivos.
 Streamlit y FastAPI: Despliegue de soluciones interactivas.
 GitHub: Herramientas para colaboración.
 
-<p align="center"> Gráfico 3: Pipeline de Procesamiento de Datos </p>
+<p align="center"> Gráfico 4: Pipeline de Procesamiento de Datos </p>
 
 <div align="center">
   <img src="Img/stack.jpeg" alt="Stack">
