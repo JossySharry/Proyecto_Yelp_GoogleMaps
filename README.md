@@ -45,9 +45,10 @@ El alcance del proyecto consiste en realizar un análisis exhaustivo de datos pa
 Para garantizar la entrega ágil y adaptada a las necesidades del cliente, hemos adoptado la metodología Scrum. Este marco de trabajo se basa en la colaboración continua y la entrega incremental de valor a través de Sprints.
 En este proyecto, hemos planificado tres Sprints:
 
-Sprint 1: Definición del problema, objetivos, roles y análisis preliminar de datos.
-Sprint 2: Implementación del proceso ETL, diseño del Data Warehouse y desarrollo del Producto Mínimo Viable (MVP).
-Sprint 3: Desarrollo del modelo de Machine Learning, creación de un dashboard interactivo y generación de la documentación final.
+- Sprint 1: Definición del problema, objetivos, roles y análisis preliminar de datos.
+- Sprint 2: Implementación del proceso ETL, diseño del Data Warehouse y desarrollo del Producto Mínimo Viable (MVP).
+- Sprint 3: Desarrollo del modelo de Machine Learning, creación de un dashboard interactivo y generación de la documentación final.
+
 Para una mejor visualización del progreso, hemos elaborado el siguiente cronograma:
 
 <p align="center"> Gráfico 3: Cronograma </p>
