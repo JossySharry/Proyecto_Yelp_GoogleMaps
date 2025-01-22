@@ -121,8 +121,9 @@ GitHub: Herramientas para colaboración.
 
 ## ```Equipo de Trabajo```
 
+
 |      |      |      |      |      |
 | :--: | :--: | :--: | :--: | :--: |
-| ![Gustavo Gonzalez](/Img/integrante1.jpg)<br>**Gustavo Gonzalez**<br>Data Engineer<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/gustavo-gonzalez-data/) | ![Mariana Ballardini](/Img/integrante2.jpg)<br>**Mariana Ballardini**<br>Data Engineer<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/marianaballardini/) | ![Jossy Romero](/Img/integrante3.jpg)<br>**Jossy Romero**<br>Data Scientist<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/jossy-romero-data/) | ![Valentin Salgado](/Img/integrante4.jpg)<br>**Valentin Salgado**<br>Data Analyst<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/valentin-salgado-463332301/) | ![Juan Veller](/Img/integrante5.jpg)<br>**Juan Veller**<br>Data Analyst<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/juan-veller/) |
+| ![Gustavo Gonzalez](Img/Integrante1.jpg)<br>**Gustavo Gonzalez**<br>Data Engineer<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/gustavo-gonzalez-data/) | ![Mariana Ballardini](Img/Integrante2.jpg)<br>**Mariana Ballardini**<br>Data Engineer<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/marianaballardini/) | ![Jossy Romero](Img/Integrante3.jpg)<br>**Jossy Romero**<br>Data Scientist<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/jossy-romero-data/) | ![Valentin Salgado](Img/Integrante4.jpg)<br>**Valentin Salgado**<br>Data Analyst<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/valentin-salgado-463332301/) | ![Juan Veller](Img/Integrante5.jpg)<br>**Juan Veller**<br>Data Analyst<br>[<img src="Img/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/juan-veller/) |
 
 <p align="center"> UN EQUIPO DEDICADO A TRANSFORMAR DATOS EN DECISIONES ESTRATÉGICAS. </p>
