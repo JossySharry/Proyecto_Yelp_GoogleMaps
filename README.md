@@ -127,7 +127,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 1 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/gustavo-gonzalez-data/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante1.jpg" alt="Gustavo Gonzalez" 
+        <img src="Img/Integrante1.jpg" alt="Gustavo Gonzalez" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Gustavo Gonzalez</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Engineer</p>
