@@ -127,7 +127,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 1 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/gustavo-gonzalez-data/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante1.jpg" alt="Gustavo Gonzalez" 
+        <img src="/Img/integrante1.jpg" alt="Gustavo Gonzalez" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Gustavo Gonzalez</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Engineer</p>
@@ -136,7 +136,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 2 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/marianaballardini/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante2.jpg" alt="Mariana Ballardini" 
+        <img src="/Img/integrante2.jpg" alt="Mariana Ballardini" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Mariana Ballardini</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Engineer</p>
@@ -145,7 +145,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 3 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/jossy-romero-data/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante3.jpg" alt="Jossy Romero" 
+        <img src="/Img/integrante3.jpg" alt="Jossy Romero" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Jossy Romero</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Scientist</p>
@@ -154,7 +154,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 4 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/valentin-salgado-463332301/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante4.jpg" alt="Valentin Salgado" 
+        <img src="/Img/integrante4.jpg" alt="Valentin Salgado" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Valentin Salgado</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Analyst</p>
@@ -163,7 +163,7 @@ GitHub: Herramientas para colaboración.
     <!-- Integrante 5 -->
     <div style="background-color: #222; padding: 20px; border-radius: 10px; width: 200px; text-align: center;">
       <a href="https://www.linkedin.com/in/juan-veller/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="Img/integrante5.jpg" alt="Juan Veller" 
+        <img src="/Img/integrante5.jpg" alt="Juan Veller" 
              style="width: 100%; height: auto; border-radius: 10px; border: 2px solid #444;">
         <p style="margin-top: 15px; font-size: 18px; font-weight: bold;">Juan Veller</p>
         <p style="margin-top: 5px; font-size: 14px; color: #ccc;">Data Analyst</p>
