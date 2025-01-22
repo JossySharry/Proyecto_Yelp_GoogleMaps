@@ -67,6 +67,15 @@ Este esquema permite la automatización total del ciclo de vida del dato en la n
 
 6. Configura el Scheduler:
 
-    Define los triggers de Cloud Scheduler para ejecutar la función orchestrator automáticamente.
+    - Define los triggers de Cloud Scheduler para ejecutar la función orchestrator automáticamente.
 
-    Configura el programador de tareas para iniciar la carga inicial.
+    - Configura el programador de tareas para iniciar la carga inicial.
+
+
+## ```Pipeline ETL Automatizado:```
+
+<p align="center"> Gráfico 1: Pipeline ETL Automatizado </p>
+
+<div align="center">
+  <img src="../Img/ETL_Automatizado.jpeg" alt="ETL">
+</div>
