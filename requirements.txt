@@ -1,0 +1,8 @@
+folium
+geopy
+joblib
+matplotlib
+numpy
+pandas
+streamlit
+streamlit_folium
