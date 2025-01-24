@@ -1,8 +1,8 @@
-folium
-geopy
-joblib
-matplotlib
-numpy
-pandas
-streamlit
-streamlit_folium
+folium==0.19.3
+geopy==2.4.1
+joblib==1.4.2
+matplotlib==3.8.4
+numpy==2.2.2
+pandas==2.2.3
+streamlit==1.41.1
+streamlit_folium==0.24.0
