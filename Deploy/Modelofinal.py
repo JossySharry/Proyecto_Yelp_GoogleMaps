@@ -52,7 +52,7 @@ st.markdown(f"""
             box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);   
             border: 1px solid #c0c0c0;   
             width: auto;  
-            height: 150px;  
+            height: autopx;  
         }}
         .custom-container {{  
             background-color: #c7b8e7;   
@@ -89,21 +89,13 @@ states = pd.read_csv('df2.csv', usecols=['state_name'])['state_name'].unique()
 
 #st.sidebar.markdown("<h3 style='font-size: 18px;'>Selecciona un Estado</h3>", unsafe_allow_html=True)
 # Selecciona un estado con un label descriptivo  
-selected_state = st.sidebar.selectbox(  
-    label='Selecciona un estado',  # Etiqueta válida, aunque esté oculta
-    options=[
-        "Arizona",  
-        "California",  
-        "Florida",  
-        "Illinois",  
-        "New York",  
-        "Texas",  
-    ],
-    label_visibility='hidden'  # Oculta el label visualmente
+selected_state = st.sidebar.selectbox(
+    "Selecciona un estado",
+    options=["Arizona", "California", "Florida", "Illinois", "New_York", "Texas"]
 )
 # Control deslizante para seleccionar el radio de proximidad  
 st.sidebar.markdown("<h3 style='font-size: 18px;'>Selecciona el radio de proximidad (km)</h3>", unsafe_allow_html=True)  # Ajusta el tamaño  
-radius = st.sidebar.slider("", min_value=0.5, max_value=10.0, value=1.0)  
+radius = st.sidebar.slider("", min_value=1, max_value=10, value=1)  
 
 # Funciones auxiliares
 def load_data(selected_state):
