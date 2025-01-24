@@ -6,3 +6,4 @@ numpy
 pandas
 streamlit
 streamlit_folium
+scikit-learn
