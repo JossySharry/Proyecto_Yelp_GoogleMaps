@@ -8,6 +8,9 @@ from streamlit_folium import st_folium
 from folium.plugins import MarkerCluster  
 from geopy.distance import geodesic  
 
+# Configuración de la página 
+st.set_page_config(layout="wide")
+
 # Carga del modelo  
 try:  
     rf_model = joblib.load("modelo_restaurante.pkl")  
@@ -20,9 +23,6 @@ try:
 except FileNotFoundError:  
     kmeans_model = None  
     st.warning("El modelo K-Means no está disponible. Algunas funcionalidades estarán deshabilitadas.")  
-
-# Configuración del dashboard
-st.set_page_config(layout="wide")
 
 # Crear la disposición con columnas
 col1, col2 = st.columns([5, 1])  # Ajusta la proporción según el diseño deseado
