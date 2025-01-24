@@ -13,13 +13,13 @@ st.set_page_config(layout="wide")
 
 # Carga del modelo  
 try:  
-    rf_model = joblib.load("modelo_restaurante.pkl")  
+    rf_model = joblib.load("Deploy/modelo_restaurante.pkl")  
 except FileNotFoundError:  
     rf_model = None  
     st.warning("El modelo de predicción no está disponible. Algunas funcionalidades estarán deshabilitadas.")  
 
 try:  
-    kmeans_model = joblib.load("kmeans_model.joblib")  
+    kmeans_model = joblib.load("Deploy/kmeans_model.joblib")  #Deploy/kmeans_model.joblib
 except FileNotFoundError:  
     kmeans_model = None  
     st.warning("El modelo K-Means no está disponible. Algunas funcionalidades estarán deshabilitadas.")  
@@ -84,7 +84,8 @@ st.markdown(f"""
 st.sidebar.markdown("<h1 style='font-size: 28px; color:white;'>Filtros</h1>", unsafe_allow_html=True)  
 
 # Cargar los datos de los estados  
-states = pd.read_csv('df2.csv', usecols=['state_name'])['state_name'].unique()  
+states = pd.read_csv('Deploy/df2.csv', usecols=['state_name'])['state_name'].unique()  
+#Deploy/df2.csv
 
 #st.sidebar.markdown("<h3 style='font-size: 18px;'>Selecciona un Estado</h3>", unsafe_allow_html=True)
 # Selecciona un estado con un label descriptivo  
@@ -107,7 +108,7 @@ radius = st.sidebar.slider("", min_value=0.5, max_value=10.0, value=1.0)
 # Funciones auxiliares
 def load_data(selected_state):
         """Cargar datos filtrados por estado."""
-        df = pd.read_csv('df2.csv', usecols=['name', 'avg_income', 'avg_rating', 'hispanic_population', 'num_of_reviews', 'latitude', 'longitude', 'restaurante_categoria', 'total_population', 'state_name'])
+        df = pd.read_csv('Deploy/df2.csv', usecols=['name', 'avg_income', 'avg_rating', 'hispanic_population', 'num_of_reviews', 'latitude', 'longitude', 'restaurante_categoria', 'total_population', 'state_name'])
         df = df[df['state_name'] == selected_state]
         return df
 # Cargar los datos filtrados  
@@ -210,7 +211,7 @@ with col1:# Verificación antes de predecir clúster
         if cluster is not None:  
             try:  
                 # Cargar datos de clúster desde un archivo CSV  
-                df_model = pd.read_csv('df_model_cluster.csv')  
+                df_model = pd.read_csv('Deploy/df_model_cluster.csv')  
 
                 # Filtrar datos para el clúster seleccionado  
                 cluster_data = df_model[df_model['cluster'] == cluster]  
