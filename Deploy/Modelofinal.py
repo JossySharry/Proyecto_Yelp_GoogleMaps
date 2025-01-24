@@ -30,8 +30,8 @@ col1, col2 = st.columns([5, 1])  # Ajusta la proporción según el diseño desea
 with col1:
     st.markdown("<h1 style='text-align: center; color: white;'>Predicción de Éxito de Restaurantes</h1>", unsafe_allow_html=True)
 with col2:
-    st.image("DataPioneer Consulting_Logo.png", width=100)  # Asegúrate de que la ruta sea correcta
-
+    st.image("Deploy/DataPioneer Consulting_Logo.png", width=100)  # Asegúrate de que la ruta sea correcta
+#Deploy/DataPioneer Consulting_Logo.png
 # Estilo general  
 dashboard_bg_color = "#200558"  
 st.markdown(f"""  
