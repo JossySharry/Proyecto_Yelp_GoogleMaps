@@ -84,7 +84,7 @@ st.markdown(f"""
 st.sidebar.markdown("<h1 style='font-size: 28px; color:white;'>Filtros</h1>", unsafe_allow_html=True)  
 
 # Cargar los datos de los estados  
-states = pd.read_csv('df1.csv', usecols=['state_name'])['state_name'].unique()  
+states = pd.read_csv('df2.csv', usecols=['state_name'])['state_name'].unique()  
 
 #st.sidebar.markdown("<h3 style='font-size: 18px;'>Selecciona un Estado</h3>", unsafe_allow_html=True)
 # Selecciona un estado con un label descriptivo  
