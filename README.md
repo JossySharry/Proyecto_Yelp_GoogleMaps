@@ -118,6 +118,20 @@ GitHub: Herramientas para colaboración.
 </div>
 
 
+## ```Modelo de Machine Learning```
+Desarrollamos dos modelos complementarios: uno para agrupar restaurantes según sus características y otro para predecir el éxito de nuevos establecimientos.
+
+- El primer modelo es un análisis no supervisado que utiliza el algoritmo KMeans. Este modelo nos permitió identificar patrones y visualizar la distribución de los restaurantes latinos, así como entender mejor las dinámicas del mercado. Esto resulta crucial para elegir ubicaciones estratégicas.
+
+- El segundo modelo es un enfoque supervisado que utiliza Random Forest para predecir si un nuevo restaurante tendrá éxito en su apertura.
+
+<br/>
+
+**`Deployment`**: Link en [Render](https://demo-modelo.onrender.com/) 
+
+<br/>
+
+
 
 ## ```Equipo de Trabajo```
 
